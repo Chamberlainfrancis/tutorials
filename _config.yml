@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "My Tutorials"
+description: "Learn about virtual cards and payments"
+show_downloads: false
+include: ["assets/style.css"]
