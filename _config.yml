@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
 title: "My Tutorials"
 description: "Learn about virtual cards and payments"
 show_downloads: false
