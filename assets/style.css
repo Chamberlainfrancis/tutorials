@@ -1,5 +1,6 @@
 @import "{{ site.theme }}";
 
-.page-header, .site-footer {
+header, footer {
     display: none !important;
 }
+
