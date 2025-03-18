@@ -1,12 +1,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-    width: 860px;
+    width: 860px !important;
     margin: auto !important;
 } 
 
 section {
-    width: 500px;
-    padding-bottom: 50px;
+    width: 500px !important;
+    padding-bottom: 50px !important;
 }
-
