@@ -1,6 +1,12 @@
 @import "{{ site.theme }}";
 
-header, footer {
-    display: none !important;
+.wrapper {
+    width: 860px;
+    margin: auto !important;
+} 
+
+section {
+    width: 500px;
+    padding-bottom: 50px;
 }
 
